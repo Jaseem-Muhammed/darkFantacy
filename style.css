@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration:none;
+    
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    color:#e8b828;
+    font-size: 16px;
+    letter-spacing: 1px;
+   
+}
+.nav-link:hover{
+ color: white;
+}
+.logo{
+   width: 7rem;
+}
+.bgcol{
+    background-color: #390612;
+    height: 80px;
+    width: 100%;
+}
+.social{
+   width: 2rem;
+}
+
+
+.bg1{
+   width: 100%;
+}
+
+
+.header{
+    
+margin: 0;
+padding: 0;
+    background-image: url(img/creationbanner.jpg);
+    
+    height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+   padding-top: 20rem;
+   padding-left: 20rem;
+
+
+}
+h3{
+    color: rgb(255, 255, 255);
+    font-size: small;
+    width: 30rem;
+    text-align: center;
+    display: ;
+    
+}
+
+
+
+
+.images{
+    width: 100%;
+
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #e8b828;
+    font-size: 1rem;
+    text-align: center;
+    
+
+}
+
+
+.back{
+
+    background-color: #390612;
+}
+.footer{
+    background-image: url(img/footer\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+    
+}
+.footcol1{
+    
+   padding: 50px;
+   max-width: 400px;
+   
+   
+}
+.footcol1{
+    
+    padding: 50px;
+    max-width: 400px;
+    
+    
+    
+ }
+.card-body{
+   
+    text-align: center;
+    color: white;
+}
+.card-body img{
+    width: 3rem;
+    vertical-align: top;
+    
+}
+.center{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-body{
+   
+}
